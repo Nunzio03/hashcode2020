@@ -2,6 +2,7 @@
 our hashcode 2020 solution
 
 # made by
-https://github.com/potitoaghilar
-https://github.com/Mackerkun
-https://github.com/Nunzio03
+https://github.com/potitoaghilar <br>
+https://github.com/Mackerkun <br>
+https://github.com/Nunzio03 
+ 
